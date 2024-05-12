@@ -36,7 +36,7 @@ A memory pool is designed to use memory in cycles, improve memory usage efficien
 
 **locate memory leak lines of code through log file analysis:**
 
-![](img/screenshot.png)
+![](img_en/screenshot.png)
 
 # example
 
