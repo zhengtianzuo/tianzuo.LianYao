@@ -111,7 +111,7 @@ int main(int argc, char* argv[]) {
 
 |||||
 |--|--|--|--|
-|[![立即下载](img/com_btnGitHub.svg)](https://github.com/zhengtianzuo/tianzuo.LianYao/releases)|[![立即下载](img/com_btnGitee.svg)](https://gitee.com/zhengtianzuo/tianzuo.LianYao/releases)|[![立即下载](img/down_baidu.svg)](https://pan.baidu.com/s/1Lv9dOBpV4-eXpi9yl0BSUg?pwd=1234)|[![立即下载](img/down_weiyun.svg)](https://share.weiyun.com/ReeeXXwu)|
+|[![立即下载](img/com_btnGitHub.svg)](https://github.com/zhengtianzuo/tianzuo.LianYao/releases)|[![立即下载](img/com_btnGitee.svg)](https://gitee.com/zhengtianzuo/tianzuo.LianYao/releases)|[![立即下载](img/down_baidu.svg)](https://pan.baidu.com/s/1Lv9dOBpV4-eXpi9yl0BSUg?pwd=1234)|[![立即下载](img/down_weiyun.svg)](https://share.weiyun.com/J7ZYxKL7)|
 
 
 # 关于
