@@ -1,0 +1,31 @@
+发现内存泄漏 地址: 0x0x7fd67c800000 数据大小: 4 字节
+堆栈信息: 
+	?? () at ??:0 (_Znwm+25)
+	main () at tianzuo.LianYaoTest.cpp:38 (main+95)
+	?? () at ??:0 (start+1)
+
+发现内存泄漏 地址: 0x0x7fd67c800083 数据大小: 24 字节
+堆栈信息: 
+	?? () at ??:0 (_Znwm+25)
+	main () at tianzuo.LianYaoTest.cpp:51 (main+293)
+	?? () at ??:0 (start+1)
+
+发现内存泄漏 地址: 0x0x7fd67c8000b4 数据大小: 132 字节
+堆栈信息: 
+	?? () at ??:0 (_Znwm+25)
+	?? () at ??:0 (_Znam+21)
+	?? () at ??:0 (_ZN6class1C2Ev+27)
+	?? () at ??:0 (_ZN6class1C1Ev+21)
+	main () at tianzuo.LianYaoTest.cpp:54 (main+433)
+	?? () at ??:0 (start+1)
+
+发现内存泄漏 地址: 0x0x7fd67e000400 数据大小: 1555 字节
+堆栈信息: 
+	?? () at ??:0 (_Znwm+25)
+	?? () at ??:0 (_Znam+21)
+	main () at tianzuo.LianYaoTest.cpp:48 (main+261)
+	?? () at ??:0 (start+1)
+
+内存使用总大小: 4627 字节
+内存未使用大小: 2912 字节
+内存泄漏总大小: 1715 字节

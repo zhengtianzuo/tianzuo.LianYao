@@ -1,0 +1,36 @@
+发现内存泄漏 地址: 0x000001D1F7999EE0 数据大小: 4 字节
+堆栈信息: 
+	main() at tianzuo.LianYaoTest.cpp:38(0x47621670)
+	invoke_main() at exe_common.inl:79(0x47622a20)
+	__scrt_common_main_seh() at exe_common.inl:288(0x476227d0)
+	__scrt_common_main() at exe_common.inl:331(0x476227b0)
+	mainCRTStartup() at exe_main.cpp:17(0x47622ae0)
+
+发现内存泄漏 地址: 0x000001D1F7999F63 数据大小: 12 字节
+堆栈信息: 
+	main() at tianzuo.LianYaoTest.cpp:51(0x47621670)
+	invoke_main() at exe_common.inl:79(0x47622a20)
+	__scrt_common_main_seh() at exe_common.inl:288(0x476227d0)
+	__scrt_common_main() at exe_common.inl:331(0x476227b0)
+	mainCRTStartup() at exe_main.cpp:17(0x47622ae0)
+
+发现内存泄漏 地址: 0x000001D1F7999F7C 数据大小: 132 字节
+堆栈信息: 
+	class1::class1() at class1.cpp:4(0x47621580)
+	main() at tianzuo.LianYaoTest.cpp:54(0x47621670)
+	invoke_main() at exe_common.inl:79(0x47622a20)
+	__scrt_common_main_seh() at exe_common.inl:288(0x476227d0)
+	__scrt_common_main() at exe_common.inl:331(0x476227b0)
+	mainCRTStartup() at exe_main.cpp:17(0x47622ae0)
+
+发现内存泄漏 地址: 0x000001D1F8BAE490 数据大小: 1555 字节
+堆栈信息: 
+	main() at tianzuo.LianYaoTest.cpp:48(0x47621670)
+	invoke_main() at exe_common.inl:79(0x47622a20)
+	__scrt_common_main_seh() at exe_common.inl:288(0x476227d0)
+	__scrt_common_main() at exe_common.inl:331(0x476227b0)
+	mainCRTStartup() at exe_main.cpp:17(0x47622ae0)
+
+内存使用总大小: 4627 字节
+内存未使用大小: 2924 字节
+内存泄漏总大小: 1703 字节

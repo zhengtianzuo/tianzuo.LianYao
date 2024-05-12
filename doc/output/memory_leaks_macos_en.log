@@ -1,0 +1,35 @@
+memory leak detected at: 0x0x7fc5f5000000 data size: 4 bytes
+stack trace: 
+	?? () at ??:0 (_Znwm+25)
+	main () at tianzuo.LianYaoTest.cpp:38 (main+98)
+	?? () at ??:0 (start+1)
+	?? () at ??:0 (0x0+1)
+
+memory leak detected at: 0x0x7fc5f5000083 data size: 24 bytes
+stack trace: 
+	?? () at ??:0 (_Znwm+25)
+	main () at tianzuo.LianYaoTest.cpp:51 (main+296)
+	?? () at ??:0 (start+1)
+	?? () at ??:0 (0x0+1)
+
+memory leak detected at: 0x0x7fc5f50000b4 data size: 132 bytes
+stack trace: 
+	?? () at ??:0 (_Znwm+25)
+	?? () at ??:0 (_Znam+21)
+	?? () at ??:0 (_ZN6class1C2Ev+27)
+	?? () at ??:0 (_ZN6class1C1Ev+21)
+	main () at tianzuo.LianYaoTest.cpp:54 (main+436)
+	?? () at ??:0 (start+1)
+	?? () at ??:0 (0x0+1)
+
+memory leak detected at: 0x0x7fc5f8025600 data size: 1555 bytes
+stack trace: 
+	?? () at ??:0 (_Znwm+25)
+	?? () at ??:0 (_Znam+21)
+	main () at tianzuo.LianYaoTest.cpp:48 (main+264)
+	?? () at ??:0 (start+1)
+	?? () at ??:0 (0x0+1)
+
+Total memory used: 4627 bytes 
+Unused memory size: 2912 bytes 
+Total memory leak size: 1715 bytes 

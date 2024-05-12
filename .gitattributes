@@ -1,0 +1,10 @@
+*.cpp linguist-language=C++
+*.cs linguist-language=C#
+*.go linguist-language=GO
+*.java linguist-language=Java
+*.js linguist-language=JavaScript
+*.php linguist-language=PHP
+*.py linguist-language=Python
+*.rb linguist-language=Ruby
+*.rust linguist-language=Rust
+*.vb linguist-language=Visual Basic .NET

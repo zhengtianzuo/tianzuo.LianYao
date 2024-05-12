@@ -1,0 +1,36 @@
+memory leak detected at: 0x000001B500AFAB60 data size: 4 bytes
+stack trace: 
+	main() at tianzuo.LianYaoTest.cpp:38(0x52ca1670)
+	invoke_main() at exe_common.inl:79(0x52ca2a20)
+	__scrt_common_main_seh() at exe_common.inl:288(0x52ca27d0)
+	__scrt_common_main() at exe_common.inl:331(0x52ca27b0)
+	mainCRTStartup() at exe_main.cpp:17(0x52ca2ae0)
+
+memory leak detected at: 0x000001B500AFABE3 data size: 12 bytes
+stack trace: 
+	main() at tianzuo.LianYaoTest.cpp:51(0x52ca1670)
+	invoke_main() at exe_common.inl:79(0x52ca2a20)
+	__scrt_common_main_seh() at exe_common.inl:288(0x52ca27d0)
+	__scrt_common_main() at exe_common.inl:331(0x52ca27b0)
+	mainCRTStartup() at exe_main.cpp:17(0x52ca2ae0)
+
+memory leak detected at: 0x000001B500AFABFC data size: 132 bytes
+stack trace: 
+	class1::class1() at class1.cpp:4(0x52ca1580)
+	main() at tianzuo.LianYaoTest.cpp:54(0x52ca1670)
+	invoke_main() at exe_common.inl:79(0x52ca2a20)
+	__scrt_common_main_seh() at exe_common.inl:288(0x52ca27d0)
+	__scrt_common_main() at exe_common.inl:331(0x52ca27b0)
+	mainCRTStartup() at exe_main.cpp:17(0x52ca2ae0)
+
+memory leak detected at: 0x000001B501DE8010 data size: 1555 bytes
+stack trace: 
+	main() at tianzuo.LianYaoTest.cpp:48(0x52ca1670)
+	invoke_main() at exe_common.inl:79(0x52ca2a20)
+	__scrt_common_main_seh() at exe_common.inl:288(0x52ca27d0)
+	__scrt_common_main() at exe_common.inl:331(0x52ca27b0)
+	mainCRTStartup() at exe_main.cpp:17(0x52ca2ae0)
+
+Total memory used: 4627 bytes 
+Unused memory size: 2924 bytes 
+Total memory leak size: 1703 bytes 

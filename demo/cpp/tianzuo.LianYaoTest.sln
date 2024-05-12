@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tianzuo.LianYaoTest", "tianzuo.LianYaoTest.vcxproj", "{8F2A98E5-8CA4-3197-B326-E09EBCA59E6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		MinSizeRel|Win32 = MinSizeRel|Win32
+		Release|Win32 = Release|Win32
+		RelWithDebInfo|Win32 = RelWithDebInfo|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F2A98E5-8CA4-3197-B326-E09EBCA59E6D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8F2A98E5-8CA4-3197-B326-E09EBCA59E6D}.Debug|Win32.Build.0 = Debug|Win32
+		{8F2A98E5-8CA4-3197-B326-E09EBCA59E6D}.MinSizeRel|Win32.ActiveCfg = MinSizeRel|Win32
+		{8F2A98E5-8CA4-3197-B326-E09EBCA59E6D}.MinSizeRel|Win32.Build.0 = MinSizeRel|Win32
+		{8F2A98E5-8CA4-3197-B326-E09EBCA59E6D}.Release|Win32.ActiveCfg = Release|Win32
+		{8F2A98E5-8CA4-3197-B326-E09EBCA59E6D}.Release|Win32.Build.0 = Release|Win32
+		{8F2A98E5-8CA4-3197-B326-E09EBCA59E6D}.RelWithDebInfo|Win32.ActiveCfg = RelWithDebInfo|Win32
+		{8F2A98E5-8CA4-3197-B326-E09EBCA59E6D}.RelWithDebInfo|Win32.Build.0 = RelWithDebInfo|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6139772B-4FDD-3800-95AE-080E290CA78F}
+	EndGlobalSection
+EndGlobal
